@@ -114,3 +114,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unity,android
+Mobile_AR/Packages/com.ptc.vuforia.engine-10.3.2.tgz
